@@ -1,0 +1,45 @@
+### Example 1
+POST http://localhost:8080/api/routes
+Content-Type: application/json
+
+{
+  "departurePlace": "SOF",
+  "arrivalPlace": "MLE"
+}
+
+### Example 2
+POST http://localhost:8080/api/routes
+Content-Type: application/json
+
+{
+  "departurePlace": "SOF",
+  "arrivalPlace": "MLE"
+}
+
+### Example 3
+POST http://localhost:8080/api/routes
+Content-Type: application/json
+
+{
+  "departurePlace": "SOF",
+  "arrivalPlace": "MLE"
+}
+
+### Example 4
+POST http://localhost:8080/api/routes
+Content-Type: application/json
+
+{
+  "departurePlace": "SOF",
+  "arrivalPlace": "MLE"
+}
+
+### Example 5
+POST http://localhost:8080/api/routes
+Content-Type: application/json
+
+{
+  "departurePlace": "SOF",
+  "arrivalPlace": "MLE",
+  "maxTransfers": 1
+}
