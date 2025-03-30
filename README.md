@@ -4,6 +4,17 @@ This is a **Spring Boot REST API** that helps users (like Alice 😊) explore al
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
+### ⚙️ Technologies Used
+
+- **Java 21**
+- **Spring Boot 3.4**
+- **Spring Web (REST)**
+- **Lombok** – for reducing boilerplate (getters/setters)
+- **Maven** – project management
+- **HTTP Client in IntelliJ** – for testing `.http` files
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
 ### 📦 Features
 
 • 🔍 Find all possible routes between two cities
